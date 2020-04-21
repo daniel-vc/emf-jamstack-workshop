@@ -3,7 +3,7 @@
 👨🏻‍💻EMF Students. This branch is for serving instructions on the AWS section of the workshop.
 
 Instructions:
-  1. Head to the URL on the right and login with your given username and password.
+  1. Head to [this URL](https://s3.console.aws.amazon.com) and login with your given username and password.
 
   2. In the menu “Services” select “S3” under Storage. 
 
