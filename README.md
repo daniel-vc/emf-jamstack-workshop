@@ -8,6 +8,7 @@ Instructions:
 3. Run `git remote -v` if no remote exists, add a local remote to your repo so you can push updates to your github copy `git remote set-url <your repo url>` then `git push`
 4. (Optional) Checkout a new branch (from master) and call it 'workshop'. `git checkout -b workshop`
 5. Run `npm i` in the project root.
+6. added another step
 
 💥Now you're ready to start!
 
